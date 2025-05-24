@@ -1,5 +1,7 @@
 # Pizza Sales Report with SQL and Power BI
 
+## Overview
+   The Dashboard provides a comprehensive overview of pizza sales performance. It includes key performance indicators(KPIs), trends and visualization to support business decision-making
 
 ## Features
 
@@ -40,6 +42,9 @@ The **Pizza Sales Report** dashboards provide a user-friendly interface and offe
 
 
 ### Best/Worst Sellers Report Dashboard
+
+![image](https://github.com/user-attachments/assets/d4098cb6-f1a9-4ae1-be14-a9fc360d382b)
+
 
 
 
