@@ -38,12 +38,11 @@ The **Pizza Sales Report** dashboards provide a user-friendly interface and offe
 
 ### Home Page Report Dashboard
 
-![image](https://github.com/user-attachments/assets/9ba0b3aa-38de-42f6-a1bf-290b464b5415)
+
 
 
 ### Best/Worst Sellers Report Dashboard
 
-![image](https://github.com/user-attachments/assets/d4098cb6-f1a9-4ae1-be14-a9fc360d382b)
 
 
 
